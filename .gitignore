@@ -1,0 +1,29 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.so
+*.egg
+*.egg-info/
+
+# IDE
+.idea/
+build/
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# PDF, тимчасові файли
+*.pdf
+*.tmp
